@@ -33,8 +33,8 @@ O sistema oferece as seguintes funcionalidades:
 - Menu Interativo:
 - Um menu intuitivo possibilita a navegação pelas opções disponíveis, facilitando o acesso às funcionalidades do sistema.
 
-Estrutura do Projeto
-O projeto está organizado nos seguintes arquivos:
+
+A estrutura projeto está organizado nos seguintes arquivos:
 
 main.c
 Arquivo principal que contém toda a lógica do programa, incluindo a definição das estruturas, funções de manipulação dos dados e implementação do menu.
