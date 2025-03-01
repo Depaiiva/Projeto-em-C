@@ -592,7 +592,7 @@ void menu(){
     printf("5) Listar as RAs por ordem decrescente da quantidade de miniusina:\n");
     printf("6) Listar as RAs por ordem crescente de número de contratos:\n");
     printf("7) Listar as RAs por ordem decrescente de capacidade de geração:\n");
-    printf("8) Listar as RAs por ordem decrescente de percentual de energia disponível:\n");
+    //printf("8) Listar as RAs por ordem decrescente de percentual de energia disponível:\n");
     printf("9) Sair do programa\n");
     printf("---------------------------------------------------------------------------------------------------\n");
 }
