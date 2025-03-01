@@ -83,7 +83,6 @@ Este design modular facilita a manutenção do código e a inclusão de novas fu
 
 Autor
 Carlos Henrique de Paiva Munis
-Matrícula: 221022480
 
 Licença
-Este projeto foi desenvolvido para fins acadêmicos. Sinta-se à vontade para usá-lo e aprimorá-lo, desde que seja para fins educacionais e com a devida atribuição ao autor.
+Este projeto foi desenvolvido para fins acadêmicos (Universidade de Brasília). Sinta-se à vontade para usá-lo e aprimorá-lo, desde que seja para fins educacionais e com a devida atribuição ao autor.
